@@ -7,6 +7,14 @@
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "items": "Items",
+    "maps": "Maps",
+    "mechanics": "Mechanics",
+    "progression": "Progression",
+    "community": "Community",
+    "media": "Media",
     "home": "Home",
     "menu": "Menu",
     "toggleTheme": "Toggle theme"
@@ -387,7 +395,6 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -423,5 +430,37 @@
     "buildGuide": "Customization Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "codes": {
+    "overviewTitle": "Roblox High School 2 Codes",
+    "overviewDescription": "Browse all working promo codes, free rewards, gem bonuses, and redemption guides for Roblox High School 2."
+  },
+  "guide": {
+    "overviewTitle": "Roblox High School 2 Guides",
+    "overviewDescription": "Step-by-step guides for Roblox High School 2, covering graduation requirements, earning diamonds, school secrets, and detention rules."
+  },
+  "items": {
+    "overviewTitle": "Roblox High School 2 Items & Outfits",
+    "overviewDescription": "Complete database of outfits, vintage vehicles, student titles, basement keys, and collectible items in Roblox High School 2."
+  },
+  "maps": {
+    "overviewTitle": "Roblox High School 2 Maps & Housing",
+    "overviewDescription": "Explore the Starcadia Bay campus map, player house blueprints, interior decoration ideas, and neighborhood locations in Roblox High School 2."
+  },
+  "mechanics": {
+    "overviewTitle": "Roblox High School 2 Game Mechanics",
+    "overviewDescription": "Learn essential gameplay systems in Roblox High School 2, including the karma meter, fishing spots, class schedules, and hidden campus secrets."
+  },
+  "progression": {
+    "overviewTitle": "Roblox High School 2 Progression & History",
+    "overviewDescription": "Track update milestones, release timelines, graduation progression, and developmental history of Roblox High School 2."
+  },
+  "community": {
+    "overviewTitle": "Roblox High School 2 Community",
+    "overviewDescription": "Connect with fellow students, find official Discord channels, join Reddit discussions, and stay engaged with the Roblox High School 2 community."
+  },
+  "media": {
+    "overviewTitle": "Roblox High School 2 Media & Audio",
+    "overviewDescription": "Watch gameplay trailers, listen to the official soundtrack, review class schedules, and explore principal commands for Roblox High School 2."
   }
 }
