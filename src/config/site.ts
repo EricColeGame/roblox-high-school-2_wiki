@@ -19,15 +19,15 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
+  name: "Roblox High School 2 Wiki",
+  shortName: "Roblox High School 2",
   logoText: "RHS2",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "0Tz1yKZ-6BI", // Roblox High School 2 - Trailer
+  tagline: "Codes, Guides & Roleplay",
+  description: "Roblox High School 2 Wiki provides codes, guides, roleplay tips, updates and gameplay resources to help players explore the virtual school world.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://roblox-high-school-2.wiki",
+  supportEmail: "support@roblox-high-school-2.wiki",
+  gameUrl: "https://www.roblox.com",
+  heroVideoId: "0Tz1yKZ-6BI",
   social: {
     discord: "https://discord.gg/roblox",
     youtube: "https://www.youtube.com/@roblox",
