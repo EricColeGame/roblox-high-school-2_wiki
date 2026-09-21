@@ -1,1 +1,466 @@
-{}
+{
+  "site": {
+    "name": "Roblox High School 2 Wiki",
+    "shortName": "Roblox High School 2",
+    "tagline": "Códigos, Guías y Roleplay",
+    "description": "Roblox High School 2 Wiki ofrece códigos, guías, consejos de roleplay, actualizaciones y recursos de juego para ayudar a los jugadores a explorar el mundo escolar virtual.",
+    "legalNotice": "Wiki no oficial de fans. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "codes": "Códigos",
+    "guide": "Guía",
+    "items": "Objetos",
+    "maps": "Mapas",
+    "mechanics": "Mecánicas",
+    "progression": "Progresión",
+    "community": "Comunidad",
+    "media": "Multimedia",
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Roblox High School 2 Wiki — Códigos, Guías y Roleplay",
+      "description": "Guía completa de Roblox High School 2 con códigos activos, ubicaciones del campus, consejos de roleplay y recursos escolares."
+    },
+    "hero": {
+      "eyebrow": "Simulador Escolar y de Roleplay en Roblox",
+      "title": "Roblox High School 2 Wiki",
+      "description": "Roblox High School 2 es una experiencia de rol social donde los jugadores asisten a una escuela virtual, personalizan personajes, exploran lugares y crean sus propias historias con amigos.",
+      "stats": [
+        "Más de 100M visitas totales",
+        "Más de 20 ubicaciones",
+        "0 códigos activos",
+        "Actualizaciones frecuentes"
+      ],
+      "primaryCta": "Guía para Principiantes",
+      "secondaryCta": "Guías de Roleplay",
+      "tertiaryCta": "Códigos Activos",
+      "videoLabel": "Multimedia oficial"
+    },
+    "updates": {
+      "title": "Últimas Actualizaciones",
+      "browse": "Explorar Todas las Guías",
+      "viewAll": "Ver Todo"
+    },
+    "start": {
+      "eyebrow": "Comienza Aquí",
+      "title": "Tu Aventura en Roblox High School 2",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para Principiantes",
+          "description": "Conoce el horario del campus, navega por Starcadia Bay y comprende la rutina diaria escolar."
+        },
+        {
+          "number": "2",
+          "title": "Subida Rápida de Nivel y Graduación",
+          "description": "Llega a clase antes de la campana, destaca en los minijuegos y obtén XP constante para graduarte rápido."
+        },
+        {
+          "number": "3",
+          "title": "Todos los Códigos y Recompensas Gratis",
+          "description": "Canjea códigos promocionales activos para obtener créditos gratis, gemas, cosméticos exclusivos y mejoras de vehículos."
+        },
+        {
+          "number": "4",
+          "title": "Ganar Dinero y Gemas",
+          "description": "Trabaja en empleos del campus, mantén rachas de inicio de sesión y gana dinero para desbloquear casas y autos de lujo."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas Populares",
+      "title": "Tendencias Actuales",
+      "quickLinks": [
+        "Cómo Graduarse",
+        "Códigos Activos",
+        "Guía de Casas",
+        "Vehículos Clásicos"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía de Inicio y Graduación",
+          "description": "Aprende el horario escolar, los minijuegos de asignaturas y la ruta más rápida para conseguir tu diploma.",
+          "href": "/guide/roblox-high-school-2-how-to-graduate"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Códigos Activos",
+          "description": "Todos los códigos promocionales funcionales para conseguir créditos gratis, gemas y cosméticos exclusivos.",
+          "href": "/codes/roblox-high-school-2-codes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Casas y Arquitectura",
+          "description": "Lista completa de precios, categorías de propiedades y guía de compra desde cabañas iniciales hasta mansiones de lujo.",
+          "href": "/maps/roblox-high-school-2-houses"
+        },
+        {
+          "badge": "Destacado",
+          "title": "Vehículos Clásicos",
+          "description": "Explora coches clásicos, métodos de adquisición, consejos de conducción y personalización retro.",
+          "href": "/items/roblox-high-school-2-vintage-vehicles"
+        },
+        {
+          "badge": "Popular",
+          "title": "Códigos de Atuendos y Estilo",
+          "description": "Explora códigos de vestimenta en tendencia y personaliza el avatar de tu estudiante con ropa exclusiva.",
+          "href": "/items/roblox-high-school-2-outfit-codes"
+        },
+        {
+          "badge": "Guía",
+          "title": "Cómo Conseguir Gemas",
+          "description": "Métodos gratuitos y eficientes para ganar gemas mediante rachas diarias, eventos y juego continuado.",
+          "href": "/guide/roblox-high-school-2-how-to-get-gems"
+        },
+        {
+          "badge": "Secretos",
+          "title": "Secretos del Campus y Easter Eggs",
+          "description": "Descubre áreas ocultas de la escuela, llaves del sótano y rincones misteriosos por toda la ciudad.",
+          "href": "/mechanics/roblox-high-school-2-secrets"
+        },
+        {
+          "badge": "Actividades",
+          "title": "Guía de Pesca",
+          "description": "Pesca en los muelles de Starcadia Bay, gana créditos adicionales y completa tu colección.",
+          "href": "/mechanics/roblox-high-school-2-fishing"
+        },
+        {
+          "badge": "Trabajos",
+          "title": "Trabajos y Ganancias",
+          "description": "Compara salarios por hora en trabajos de la cafetería, tiendas y servicios para maximizar ingresos.",
+          "href": "/guide/roblox-high-school-2-jobs"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Acerca de Roblox High School 2",
+      "paragraphs": [
+        "Roblox High School 2 es una vibrante simulación de rol escolar multijugador desarrollada por Cinder Studio en Roblox. Ambientada en la animada ciudad de Starcadia Bay, los jugadores asisten a clases interactivas, completan minijuegos de materias, obtienen diplomas y personalizan sus avatares con un amplio guardarropa.",
+        "Más allá de las clases académicas, los jugadores pueden comprar y decorar casas personalizadas, pasear en vehículos clásicos, trabajar en empleos a tiempo parcial y descubrir secretos ocultos del campus. Nuestra wiki ofrece guías completas, códigos activos y consejos para cada estudiante."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Cinder Studio"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Género",
+          "value": "Rol Escolar"
+        },
+        {
+          "label": "Visitas",
+          "value": "620M+"
+        },
+        {
+          "label": "Favoritos",
+          "value": "2.6M+"
+        },
+        {
+          "label": "Escenario",
+          "value": "Starcadia Bay"
+        },
+        {
+          "label": "Tamaño del Servidor",
+          "value": "30 Jugadores"
+        }
+      ],
+      "cta": "Jugar en Roblox"
+    },
+    "explore": {
+      "title": "Explora Roblox High School 2",
+      "description": "Todo lo que necesitas para tener éxito en la vida escolar: códigos, guías, personalización, secretos y más.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para Principiantes de Roblox High School 2",
+          "description": "Una guía completa que cubre el ciclo básico de juego, actividades escolares, personalización de avatares, casas, vehículos y funciones sociales. Ayuda a nuevos jugadores a empezar su vida en Starcadia Bay.",
+          "href": "/guide/roblox-high-school-2-how-to-graduate",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Llega a clase antes del timbre para registrar asistencia completa y obtener créditos del curso"
+            },
+            {
+              "label": "2",
+              "detail": "Completa los minijuegos de asignaturas con alta precisión para obtener las mejores notas y XP"
+            },
+            {
+              "label": "3",
+              "detail": "Trabaja en empleos a tiempo parcial en Starcadia Bay para cubrir gastos diarios"
+            },
+            {
+              "label": "4",
+              "detail": "Mantén asistencia regular y hábitos de estudio para alcanzar los hitos de graduación"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Códigos de Roblox High School 2",
+          "description": "Sección con códigos promocionales para Roblox High School 2, recompensas gratuitas, créditos, gemas y eventos con códigos por tiempo limitado. Ideal para conseguir premios canjeables.",
+          "href": "/codes/roblox-high-school-2-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "RHS2",
+              "detail": "Canjea en el menú del juego para recibir créditos de bonificación gratis",
+              "badge": "Activo"
+            },
+            {
+              "label": "GEMS",
+              "detail": "Reclama gemas gratis para accesorios y estilos prémium de avatar",
+              "badge": "Activo"
+            },
+            {
+              "label": "PROMO",
+              "detail": "Los códigos distinguen mayúsculas y minúsculas; revisa la sección de ajustes",
+              "badge": "Consejo"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía de Casas de Roblox High School 2",
+          "description": "Guía enfocada en la construcción y decoración de hogares, sistemas de mobiliario, personalización de viviendas e ideas de rol creativo. Diseñada para inspirar la decoración de tu hogar.",
+          "href": "/maps/roblox-high-school-2-houses",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Mansión de Lujo — Gran propiedad con piscina, múltiples plantas y garaje privado"
+            },
+            {
+              "label": "A",
+              "detail": "Moderna de 2 Plantas — Diseño espacioso de concepto abierto, ideal para fiestas y reuniones"
+            },
+            {
+              "label": "B",
+              "detail": "Familiar Suburbana — Casa equilibrada con patio trasero y precio accesible en monedas"
+            },
+            {
+              "label": "C",
+              "detail": "Cabaña de Inicio — Propiedad básica gratuita que ofrece punto de aparición y cama"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de Avatares de Roblox High School 2",
+          "description": "Cubre funciones del editor de avatar, personalización de vestuario, opciones de ropa y estilos de personajes. Ideal para amantes de la moda y creación de identidad en Roblox.",
+          "href": "/items/roblox-high-school-2-outfit-codes",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Atuendos",
+              "detail": "Importa códigos de vestimenta de la comunidad directamente en el editor del armario"
+            },
+            {
+              "label": "Armario",
+              "detail": "Guarda conjuntos predefinidos para clases, deportes y celebraciones"
+            },
+            {
+              "label": "Estilo",
+              "detail": "Combina peinados, accesorios faciales y uniformes para lograr apariencias únicas"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de Gamepasses de Roblox High School 2",
+          "description": "Detalla los gamepasses disponibles, sus ventajas y cómo las funciones prémium mejoran la experiencia de roleplay. Útil para evaluar compras con Robux.",
+          "href": "/guide/roblox-high-school-2-how-to-get-gems",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Pase VIP",
+              "detail": "Otorga el doble de créditos, etiquetas de chat exclusivas y acceso al salón VIP"
+            },
+            {
+              "label": "Radio",
+              "detail": "Reproduce pistas de audio de Roblox en vehículos y por el campus"
+            },
+            {
+              "label": "Tuning",
+              "detail": "Desbloquea ajustes personalizados de vehículos, tonos de color y luces de neón"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de Vehículos de Roblox High School 2",
+          "description": "Información exhaustiva sobre vehículos, medios de transporte, apariencias y personalizaciones automovilísticas para moverte con estilo.",
+          "href": "/items/roblox-high-school-2-vintage-vehicles",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Clásicos",
+              "detail": "Autos retro con acabados cromados y alto valor de prestigio social"
+            },
+            {
+              "label": "Deportivos",
+              "detail": "Bólidos modernos de gran velocidad para desplazarte rápido por la ciudad"
+            },
+            {
+              "label": "Utilitarios",
+              "detail": "Sedanes urbanos y bicicletas aptos para traslados diarios por el campus"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guía de Objetos de Roblox High School 2",
+          "description": "Información detallada sobre muebles, accesorios, recompensas y coleccionables disponibles en Roblox High School 2, con sus métodos de obtención.",
+          "href": "/items/roblox-high-school-2-free-items",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Muebles",
+              "detail": "Decora estancias con escritorios, sofás, iluminación y conjuntos temáticos"
+            },
+            {
+              "label": "Títulos",
+              "detail": "Consigue títulos de prestigio que se muestran sobre el nombre de tu personaje"
+            },
+            {
+              "label": "Secretos",
+              "detail": "Encuentra llaves ocultas y misterios escolares repartidos por todo el campus"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Actualizaciones de Roblox High School 2",
+          "description": "Seguimiento de anuncios oficiales, noticias de desarrollo, mantenimiento y cambios clave introducidos por los creadores para mantenerte informado.",
+          "href": "/media/roblox-high-school-2-graduation-update",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Graduación",
+              "detail": "Añadidas ceremonias oficiales de graduación, diplomas y eventos de escenario",
+              "badge": "Actualización"
+            },
+            {
+              "label": "Vehículos",
+              "detail": "Llegada de la línea de coches clásicos, personalización y mejoras mecánicas",
+              "badge": "Novedad"
+            },
+            {
+              "label": "Chat de Voz",
+              "detail": "Activado el chat de voz espacial y seguimiento de cámara en el campus",
+              "badge": "Sistema"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "description": "Respuestas a las dudas más habituales sobre Roblox High School 2.",
+      "items": [
+        {
+          "question": "¿Qué es Roblox High School 2?",
+          "answer": "Roblox High School 2 es una experiencia de rol multijugador en Roblox donde los jugadores asisten a clases, ganan notas, decoran viviendas, conducen vehículos y conviven en la ciudad costera de Starcadia Bay."
+        },
+        {
+          "question": "¿Cómo graduarse en Roblox High School 2?",
+          "answer": "Para graduarte en Roblox High School 2 debes asistir a clase puntualmente, superar los minijuegos de asignaturas para mantener buenas calificaciones y acumular suficiente XP para desbloquear la ceremonia de graduación."
+        },
+        {
+          "question": "¿Cómo conseguir gemas y créditos gratis en Roblox High School 2?",
+          "answer": "En Roblox High School 2, los créditos se ganan asistiendo a clase y trabajando en empleos a tiempo parcial, mientras que las gemas se obtienen mediante rachas de inicio de sesión diario, subiendo de nivel y canjeando códigos promocionales."
+        },
+        {
+          "question": "¿Dónde se canjean los códigos en Roblox High School 2?",
+          "answer": "En Roblox High School 2, abre el menú del juego, busca el botón de Códigos o Promociones, introduce el código exactamente como está escrito y pulsa canjear para recibir tus recompensas."
+        },
+        {
+          "question": "¿Se pueden personalizar las casas y los vehículos en Roblox High School 2?",
+          "answer": "Sí, Roblox High School 2 ofrece sistemas avanzados de personalización tanto para viviendas como para coches, incluyendo colocación de muebles en interiores, acabados de pintura y mejoras de rendimiento."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para Explorar Roblox High School 2?",
+      "description": "Desde tu primer día de clase hasta la exploración del campus y eventos de rol, nuestra wiki comunitaria te ofrece guías gratuitas y actualizadas.",
+      "primary": "Leer la Guía para Principiantes",
+      "secondary": "Jugar en Roblox"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la Wiki",
+    "activeCodes": "Códigos Activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de Contenidos",
+    "nextSteps": "Siguientes Pasos",
+    "needHelp": "¿Necesitas Ayuda?",
+    "relatedReading": "Lecturas Relacionadas",
+    "relatedGuides": "Guías Relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Multimedia oficial",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Roblox High School 2 Wiki",
+    "about": "Roblox High School 2 Wiki es un portal independiente creado por fans que cubre ubicaciones del campus, guías de rol, códigos activos y recursos indispensables para los jugadores.",
+    "quickLinks": "Enlaces Rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Roblox High School 2 Wiki. No afiliado con Roblox ni con los desarrolladores del juego.",
+    "description": "Explora Roblox High School 2 con códigos, guías, consejos de roleplay y recursos escolares.",
+    "playGame": "Jugar a Roblox High School 2",
+    "officialDiscord": "Discord Oficial",
+    "officialYoutube": "YouTube Oficial",
+    "vvBuilder": "Mapa del Campus",
+    "beginnerGuide": "Guía para Principiantes",
+    "raceGuides": "Guías de Roleplay",
+    "bossGuides": "Guías de Ubicaciones",
+    "buildGuide": "Guía de Personalización",
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfService": "Términos del Servicio"
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Roblox High School 2",
+    "overviewDescription": "Consulta todos los códigos promocionales funcionales, recompensas gratuitas, bonus de gemas y guías de canje para Roblox High School 2."
+  },
+  "guide": {
+    "overviewTitle": "Guías de Roblox High School 2",
+    "overviewDescription": "Guías paso a paso para Roblox High School 2, que abarcan requisitos de graduación, obtención de diamantes, secretos escolares y normas de detención."
+  },
+  "items": {
+    "overviewTitle": "Objetos y Atuendos de Roblox High School 2",
+    "overviewDescription": "Base de datos completa de atuendos, vehículos clásicos, títulos de estudiantes, llaves del sótano y objetos coleccionables en Roblox High School 2."
+  },
+  "maps": {
+    "overviewTitle": "Mapas y Casas de Roblox High School 2",
+    "overviewDescription": "Explora el mapa del campus de Starcadia Bay, planos de casas de jugadores, ideas de decoración de interiores y vecindarios en Roblox High School 2."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Juego de Roblox High School 2",
+    "overviewDescription": "Aprende los sistemas esenciales de Roblox High School 2, incluyendo el medidor de karma, zonas de pesca, horarios escolares y secretos ocultos del campus."
+  },
+  "progression": {
+    "overviewTitle": "Progresión e Historia de Roblox High School 2",
+    "overviewDescription": "Sigue los hitos de actualización, cronograma de lanzamientos, progresión hacia la graduación e historial de desarrollo de Roblox High School 2."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de Roblox High School 2",
+    "overviewDescription": "Conéctate con otros estudiantes, encuentra canales oficiales de Discord, únete a debates en Reddit y participa en la comunidad de Roblox High School 2."
+  },
+  "media": {
+    "overviewTitle": "Multimedia y Audio de Roblox High School 2",
+    "overviewDescription": "Disfruta de tráileres del juego, escucha la banda sonora oficial, consulta los horarios de clases y descubre comandos del director en Roblox High School 2."
+  }
+}
